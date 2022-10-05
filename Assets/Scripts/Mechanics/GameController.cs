@@ -34,5 +34,6 @@ namespace Platformer.Mechanics
         {
             if (Instance == this) Simulation.Tick();
         }
+       
     }
 }
